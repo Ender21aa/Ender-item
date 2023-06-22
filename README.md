@@ -3,3 +3,4 @@ My bee2 pack is based on my "last hours" maps
 2 item -Magnetic staion (this is the mechanism from "last hours" that attracts cubes)
 3 item - Rotating laser 
 4 item - Tilt laser
+5 item - Cube trigger
